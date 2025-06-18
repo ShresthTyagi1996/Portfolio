@@ -91,7 +91,7 @@ figcaption {
   border-radius: 50%;
   pointer-events: none;
   mix-blend-mode: difference;
-  background: white;
+  background: lightskyblue;
   z-index: 9999;
   transition: transform 0.1s ease;
   border: 2px double black;
